@@ -2,7 +2,7 @@
 Personal portfolio website showcasing my projects, skills, and contact details. Built with HTML, CSS, and JavaScript.
 
 ## 🔗 Live Demo
-👉 [View Portfolio](https://gulabhussain.github.io/GulabHussain-Portfolio/)  
+👉 [View Portfolio](https://gulabhussain.github.io/Portfolio/)  
 
 ---
 
